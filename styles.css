@@ -18,7 +18,10 @@ body.blue-theme {
     display: block; 
 }
 
-
+nav {
+    position: relative; 
+    width: 100%; 
+}
 
 .nav-bar {
     background-color: #6793AC; 
