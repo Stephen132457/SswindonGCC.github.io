@@ -23,6 +23,13 @@ nav {
     width: 100%; 
 }
 
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        position: static;
+    }
+}
+
 .nav-bar {
     background-color: #6793AC; 
     padding: 14px 0; 
